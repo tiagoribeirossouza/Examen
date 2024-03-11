@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Tiago\\_Empresas - Trabalhos\\Desjardins\\_Teste\\Questionnaire_Developpeur_Reponse\\Questionnaire_DeveloppeurOriginale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A3688-EC93-4FE0-89B9-D87EF59A109F}|LibrarieTest.Moq\\LibrarieTest.Moq.csproj|d:\\documents\\tiago\\_empresas - trabalhos\\desjardins\\_teste\\questionnaire_developpeur_reponse\\questionnaire_developpeuroriginale\\librarietest.moq\\serviceclienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A3688-EC93-4FE0-89B9-D87EF59A109F}|LibrarieTest.Moq\\LibrarieTest.Moq.csproj|solutionrelative:librarietest.moq\\serviceclienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceClientTest.cs",
+              "DocumentMoniker": "D:\\Documents\\Tiago\\_Empresas - Trabalhos\\Desjardins\\_Teste\\Questionnaire_Developpeur_Reponse\\Questionnaire_DeveloppeurOriginale\\LibrarieTest.Moq\\ServiceClientTest.cs",
+              "RelativeDocumentMoniker": "LibrarieTest.Moq\\ServiceClientTest.cs",
+              "ToolTip": "D:\\Documents\\Tiago\\_Empresas - Trabalhos\\Desjardins\\_Teste\\Questionnaire_Developpeur_Reponse\\Questionnaire_DeveloppeurOriginale\\LibrarieTest.Moq\\ServiceClientTest.cs",
+              "RelativeToolTip": "LibrarieTest.Moq\\ServiceClientTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:37:47.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
